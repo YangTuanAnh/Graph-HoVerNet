@@ -1,4 +1,4 @@
-# Graph-HoVerNet
+# UNet-HoVerGNN
 
 Access dataset here: [yangtunanh/MoNuSAC-PanNuke-CoNSep](https://www.kaggle.com/datasets/yangtunanh/monusac-pannuke-consep/data)
 
